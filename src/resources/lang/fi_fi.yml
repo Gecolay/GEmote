@@ -1,0 +1,32 @@
+#
+# Language-File created by:		FabianAdrian
+#
+
+
+
+Plugin:
+
+  plugin-enabled: "[P]&a Laajennus käynnistyi onnistuneesti."
+  plugin-link: "[P]&a Yhdistettiin onnistuneesti&6 %Link%&a laajennukseen!"
+  plugin-update: "[P]&a Uusi versio saatavilla:&6 %NewVersion%&a!\n[P]&a Käytössä oleva versio:&6 %Version%&a!\n[P]&a Lataa uusin versio täältä:\n[P]&6 %Path%"
+  plugin-data: "[P]&c A connection to the data storage could not be established. Please check the server console!"
+  plugin-version: "[P]&c Tätä laajennusta ei voi käyttää nykyisellä palvelimen versiolla! (&b%Version%&c)"
+  plugin-reload: "[P]&a The plugin was successfully reloaded."
+  plugin-disabled: "[P]&a Laajennus sammui onnistuneesti."
+  plugin-prefix: "&7[&6GEmote&7]"
+
+
+
+Messages:
+
+  command-permission-error: "[P]&c Sinulla ei ole oikeutta tähän komentoon!"
+  command-sender-error: "[P]&c Vain pelaajat voivat käyttää tätä komentoa!"
+  command-version-error: "[P]&c Outdated Server Version! (&b%Version%&c)\n[P]&c Update the Server to use this Feature!"
+
+  action-emote-none-error: "[P]&c You're not using an emote right now!"
+  action-emote-stop-error: "[P]&c You can't stop emoting!"
+  action-emote-stop: "[P]&a You stopped emoting."
+  action-emote-exist-error: "[P]&c The Emote&6 %Emote%&c does not exist!"
+  action-emote-now-error: "[P]&c You can't emote right now!"
+  action-emote-world-error: "[P]&c You can't emote in this world!"
+  action-emote-region-error: "[P]&c You can't emote in this region!"

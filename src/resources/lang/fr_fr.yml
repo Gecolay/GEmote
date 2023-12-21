@@ -1,0 +1,32 @@
+#
+# Language-File created by:		ishi_sama
+#
+
+
+
+Plugin:
+
+  plugin-enabled: "[P]&a Le plugin a été activé avec succès."
+  plugin-link: "[P]&a Lien avec&6 %Link%&a réussi !"
+  plugin-update: "[P]&a Nouvelle version disponible :&6 %NewVersion%&a !\n[P]&a Vous êtes actuellement sur la version :&6 %Version%&a !\n[P]&a Téléchargez la dernière version sur :\n[P]&6 %Path%"
+  plugin-data: "[P]&c A connection to the data storage could not be established. Please check the server console!"
+  plugin-version: "[P]&c Ce plugin ne peut pas être utilisé avec cette version de serveur ! (&b%Version%&c)"
+  plugin-reload: "[P]&a Le plugin a été rechargé avec succès."
+  plugin-disabled: "[P]&a Le plugin a été désactivé avec succès."
+  plugin-prefix: "&7[&6GEmote&7]"
+
+
+
+Messages:
+
+  command-permission-error: "[P]&c Vous n'avez pas la permission d'utiliser cette commande !"
+  command-sender-error: "[P]&c Cet expéditeur ne peut pas exécuter cette commande !"
+  command-version-error: "[P]&c Version de serveur obsolète ! (&b%Version%&c)\n[P]&c Mettez à jour le serveur pour utiliser cette fonctionnalité !"
+
+  action-emote-none-error: "[P]&c Vous n'utilisez pas d'emote actuellement !"
+  action-emote-stop-error: "[P]&c Vous ne pouvez pas arrêter d'emote !"
+  action-emote-stop: "[P]&a Vous avez arrêté d'emote."
+  action-emote-exist-error: "[P]&c L'emote&6 %Emote%&c n'existe pas !"
+  action-emote-now-error: "[P]&c Vous ne pouvez pas emote tout de suite !"
+  action-emote-world-error: "[P]&c Vous ne pouvez pas emote dans ce monde !"
+  action-emote-region-error: "[P]&c Vous ne pouvez pas emote dans cette région !"

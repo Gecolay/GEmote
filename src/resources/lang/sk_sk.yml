@@ -1,0 +1,32 @@
+#
+# Language-File created by:		RobiNN
+#
+
+
+
+Plugin:
+
+  plugin-enabled: "[P]&a Plugin bol úspešne povolený."
+  plugin-link: "[P]&a Prepojenie s&6 %Link%&a úspešné!"
+  plugin-update: "[P]&a K dispozícii je nová verzia:&6 %NewVersion%&a!\n[P]&a Momentálne používaš verziu:&6 %Version%&a!\n[P]&a Stiahni si najnovšiu verziu na:\n[P]&6 %Path%"
+  plugin-data: "[P]&c A connection to the data storage could not be established. Please check the server console!"
+  plugin-version: "[P]&c Plugin nie je možné použiť s touto verziou servera! (&b%Version%&c)"
+  plugin-reload: "[P]&a Plugin bol úspešne znovu načítaný."
+  plugin-disabled: "[P]&a Plugin bol úspešne vypnutý."
+  plugin-prefix: "&7[&6GEmote&7]"
+
+
+
+Messages:
+
+  command-permission-error: "[P]&c Nemáš povolenie pre použitie tohto príkazu!"
+  command-sender-error: "[P]&c Nemôžeš spustiť tento príkaz!"
+  command-version-error: "[P]&c Zastaraná verzia servera! (&b%Version%&c)\n[P]&c Aktualizuj tento server, ak chceš používať túto funkciu!"
+
+  action-emote-none-error: "[P]&c Momentálne nepoužívaš emote!"
+  action-emote-stop-error: "[P]&c Nemôžeš zastaviť emote!"
+  action-emote-stop: "[P]&a Zastavil/a si emote."
+  action-emote-exist-error: "[P]&c Emote&6 %Emote%&c neexistuje!"
+  action-emote-now-error: "[P]&c Teraz nemôžeš použiť emote!"
+  action-emote-world-error: "[P]&c Nemôžeš použiť emote v tomto svete!"
+  action-emote-region-error: "[P]&c Nemôžeš použiť emote v tomto regióne!"

@@ -1,0 +1,32 @@
+#
+# Language-File created by:		adam & Asentra
+#
+
+
+
+Plugin:
+
+  plugin-enabled: "[P]&a Plugin został pomyślnie włączony."
+  plugin-link: "[P]&a Pomyślnie połączono z&6 %Link%&a!"
+  plugin-update: "[P]&a Dostępna jest nowa wersja:&6 %NewVersion%&a!\n[P]&a Aktualnie używana jest wersja:&6 %Version%&a!\n[P]&a Pobierz najnowszą wersję ze strony:\n[P]&6 %Path%"
+  plugin-data: "[P]&c A connection to the data storage could not be established. Please check the server console!"
+  plugin-version: "[P]&c Ten plugin nie może być używany z tą wersją serwera! (&b%Version%&c)"
+  plugin-reload: "[P]&a The plugin was successfully reloaded."
+  plugin-disabled: "[P]&a Plugin został pomyślnie wyłączony."
+  plugin-prefix: "&7[&6GEmote&7]"
+
+
+
+Messages:
+
+  command-permission-error: "[P]&c Nie posiadasz uprawnień, aby użyć tej komendy!"
+  command-sender-error: "[P]&c Nie możesz użyć tej komendy!"
+  command-version-error: "[P]&c Nieprawidłowa wersja serwera! (&b%Version%&c)\n[P]&c Zaktualizuj serwer, aby użyć tej funkcji!"
+
+  action-emote-none-error: "[P]&c You're not using an emote right now!"
+  action-emote-stop-error: "[P]&c You can't stop emoting!"
+  action-emote-stop: "[P]&a You stopped emoting."
+  action-emote-exist-error: "[P]&c The Emote&6 %Emote%&c does not exist!"
+  action-emote-now-error: "[P]&c You can't emote right now!"
+  action-emote-world-error: "[P]&c You can't emote in this world!"
+  action-emote-region-error: "[P]&c You can't emote in this region!"

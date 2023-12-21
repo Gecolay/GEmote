@@ -1,0 +1,32 @@
+#
+# Language-File created by:		MarceloGames000, Sty13 & GabrielMottaDev
+#
+
+
+
+Plugin:
+
+  plugin-enabled: "[P]&a O plugin foi ativado com sucesso."
+  plugin-link: "[P]&a Conexão com &6 %Link%&a feita com sucesso!"
+  plugin-update: "[P]&a Uma nova versão foi encontrada:&6 %NewVersion%&a!\n[P]&a No momento a versão que está sendo executada é a:&6 %Version%&a!\n[P]&a A nova versão se encontra para download em:\n[P]&6 %Path%"
+  plugin-data: "[P]&c A conexão com o armazenamento de dados não pode ser estabelecida. Por favor verifique o console do servidor!"
+  plugin-version: "[P]&c O plugin não pode ser utilizado nessa versão atual do servidor! (&b%Version%&c)"
+  plugin-reload: "[P]&a O plugin foi recarregado com sucesso."
+  plugin-disabled: "[P]&a O plugin foi desativado com sucesso."
+  plugin-prefix: "&7[&6GEmote&7]"
+
+
+
+Messages:
+
+  command-permission-error: "[P]&c Sem permissão para executar esse comando."
+  command-sender-error: "[P]&c O console não pode executar esse comando."
+  command-version-error: "[P]&c Versão do servidor desatualizada! (&b%Version%&c)\n[P]&c Atualize o servidor para usar este recurso!"
+
+  action-emote-none-error: "[P]&c Você não está utilizando um emote!"
+  action-emote-stop-error: "[P]&c Você não pode parar de usar o emote agora!"
+  action-emote-stop: "[P]&a Você parou de usar o emote!"
+  action-emote-exist-error: "[P]&c O Emote&6 %Emote%&c não existe!"
+  action-emote-now-error: "[P]&c Você não pode usar o emote agora!"
+  action-emote-world-error: "[P]&c Você não pode usar o emote neste mundo!"
+  action-emote-region-error: "[P]&c Você não pode usar o emote nesta região!!"

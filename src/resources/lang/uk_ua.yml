@@ -1,0 +1,32 @@
+#
+# Language-File created by:		stiltezh
+#
+
+
+
+Plugin:
+
+  plugin-enabled: "[P]&a Плагін був успішно включений."
+  plugin-link: "[P]&a З'єднання з&6 %Link%&a успішне!"
+  plugin-update: "[P]&a Доступна нова версія:&6 %NewVersion%&a!\n[P]&a В даний час ви використовуєте версію:&6 %Version%&a!\n[P]&a Завантажте останню версію на сайті:\n[P]&6 %Path%"
+  plugin-data: "[P]&c A connection to the data storage could not be established. Please check the server console!"
+  plugin-version: "[P]&c Цей Плагін не може бути використаний з цією версією сервера! (&b%Version%&c)"
+  plugin-reload: "[P]&a The plugin was successfully reloaded."
+  plugin-disabled: "[P]&a Плагін був успішно відключений."
+  plugin-prefix: "&7[&6GEmote&7]"
+
+
+
+Messages:
+
+  command-permission-error: "[P]&c Ви не маєте дозволу на використання цієї команди!"
+  command-sender-error: "[P]&c Цей відправник не може виконати цю команду!"
+  command-version-error: "[P]&c Outdated Server Version! (&b%Version%&c)\n[P]&c Update the Server to use this Feature!"
+
+  action-emote-none-error: "[P]&c You're not using an emote right now!"
+  action-emote-stop-error: "[P]&c You can't stop emoting!"
+  action-emote-stop: "[P]&a You stopped emoting."
+  action-emote-exist-error: "[P]&c The Emote&6 %Emote%&c does not exist!"
+  action-emote-now-error: "[P]&c You can't emote right now!"
+  action-emote-world-error: "[P]&c You can't emote in this world!"
+  action-emote-region-error: "[P]&c You can't emote in this region!"
