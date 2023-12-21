@@ -1,0 +1,90 @@
+#
+# Emote-File created by:		Calico
+#
+
+# Defines how often the emote is looped (0 means unlimited)
+loop: 0
+
+# Optional: Defines whether the emote is played from the player's head height
+#head: true
+
+# Optional: Defines whether the emote is played when the player is a passenger
+#hide-as-passenger: false
+
+# Optional: Defines whether the emote is played when the player is a vehicle
+#hide-as-vehicle: false
+
+# Defines the pattern of the emote
+#
+# Available options:
+#
+# particle:particle_id		- the id / name of the particle
+# delay:integer				- the delay until the particle is played
+# repeat:integer			- the amount of times the particle is repeated
+# amount:integer			- the amount of particles displayed
+# xoffset:number			- the x offset of the spawn location
+# yoffset:number			- the y offset of the spawn location
+# zoffset:number			- the z offset of the spawn location
+# extra:number				- the speed / extra parameter of the particle
+# data:particle_data		- the specific data of the particle
+pattern:
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.9 yoffset:1.8 zoffset:0.0 extra:0.0 data:228:3:3"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.7 yoffset:1.8 zoffset:0.0 extra:0.0 data:228:3:3"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.5 yoffset:1.8 zoffset:0.0 extra:0.0 data:228:3:3"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.3 yoffset:1.8 zoffset:0.0 extra:0.0 data:228:3:3"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.1 yoffset:1.8 zoffset:0.0 extra:0.0 data:228:3:3"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.1 yoffset:1.8 zoffset:0.0 extra:0.0 data:228:3:3"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.3 yoffset:1.8 zoffset:0.0 extra:0.0 data:228:3:3"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.5 yoffset:1.8 zoffset:0.0 extra:0.0 data:228:3:3"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.7 yoffset:1.8 zoffset:0.0 extra:0.0 data:228:3:3"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.9 yoffset:1.8 zoffset:0.0 extra:0.0 data:228:3:3"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.9 yoffset:1.6 zoffset:0.0 extra:0.0 data:255:140:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.7 yoffset:1.6 zoffset:0.0 extra:0.0 data:255:140:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.5 yoffset:1.6 zoffset:0.0 extra:0.0 data:255:140:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.3 yoffset:1.6 zoffset:0.0 extra:0.0 data:255:140:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.1 yoffset:1.6 zoffset:0.0 extra:0.0 data:255:140:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.1 yoffset:1.6 zoffset:0.0 extra:0.0 data:255:140:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.3 yoffset:1.6 zoffset:0.0 extra:0.0 data:255:140:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.5 yoffset:1.6 zoffset:0.0 extra:0.0 data:255:140:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.7 yoffset:1.6 zoffset:0.0 extra:0.0 data:255:140:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.9 yoffset:1.6 zoffset:0.0 extra:0.0 data:255:140:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.9 yoffset:1.4 zoffset:0.0 extra:0.0 data:255:237:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.7 yoffset:1.4 zoffset:0.0 extra:0.0 data:255:237:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.5 yoffset:1.4 zoffset:0.0 extra:0.0 data:255:237:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.3 yoffset:1.4 zoffset:0.0 extra:0.0 data:255:237:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.1 yoffset:1.4 zoffset:0.0 extra:0.0 data:255:237:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.1 yoffset:1.4 zoffset:0.0 extra:0.0 data:255:237:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.3 yoffset:1.4 zoffset:0.0 extra:0.0 data:255:237:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.5 yoffset:1.4 zoffset:0.0 extra:0.0 data:255:237:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.7 yoffset:1.4 zoffset:0.0 extra:0.0 data:255:237:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.9 yoffset:1.4 zoffset:0.0 extra:0.0 data:255:237:0"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.9 yoffset:1.2 zoffset:0.0 extra:0.0 data:0:128:38"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.7 yoffset:1.2 zoffset:0.0 extra:0.0 data:0:128:38"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.5 yoffset:1.2 zoffset:0.0 extra:0.0 data:0:128:38"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.3 yoffset:1.2 zoffset:0.0 extra:0.0 data:0:128:38"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.1 yoffset:1.2 zoffset:0.0 extra:0.0 data:0:128:38"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.1 yoffset:1.2 zoffset:0.0 extra:0.0 data:0:128:38"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.3 yoffset:1.2 zoffset:0.0 extra:0.0 data:0:128:38"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.5 yoffset:1.2 zoffset:0.0 extra:0.0 data:0:128:38"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.7 yoffset:1.2 zoffset:0.0 extra:0.0 data:0:128:38"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.9 yoffset:1.2 zoffset:0.0 extra:0.0 data:0:128:38"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.9 yoffset:1.0 zoffset:0.0 extra:0.0 data:36:64:142"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.7 yoffset:1.0 zoffset:0.0 extra:0.0 data:36:64:142"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.5 yoffset:1.0 zoffset:0.0 extra:0.0 data:36:64:142"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.3 yoffset:1.0 zoffset:0.0 extra:0.0 data:36:64:142"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.1 yoffset:1.0 zoffset:0.0 extra:0.0 data:36:64:142"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.1 yoffset:1.0 zoffset:0.0 extra:0.0 data:36:64:142"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.3 yoffset:1.0 zoffset:0.0 extra:0.0 data:36:64:142"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.5 yoffset:1.0 zoffset:0.0 extra:0.0 data:36:64:142"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.7 yoffset:1.0 zoffset:0.0 extra:0.0 data:36:64:142"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.9 yoffset:1.0 zoffset:0.0 extra:0.0 data:36:64:142"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.9 yoffset:0.8 zoffset:0.0 extra:0.0 data:115:41:130"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.7 yoffset:0.8 zoffset:0.0 extra:0.0 data:115:41:130"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.5 yoffset:0.8 zoffset:0.0 extra:0.0 data:115:41:130"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.3 yoffset:0.8 zoffset:0.0 extra:0.0 data:115:41:130"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:-0.1 yoffset:0.8 zoffset:0.0 extra:0.0 data:115:41:130"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.1 yoffset:0.8 zoffset:0.0 extra:0.0 data:115:41:130"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.3 yoffset:0.8 zoffset:0.0 extra:0.0 data:115:41:130"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.5 yoffset:0.8 zoffset:0.0 extra:0.0 data:115:41:130"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.7 yoffset:0.8 zoffset:0.0 extra:0.0 data:115:41:130"
+- "particle:redstone delay:0 repeat:1 amount:1 xoffset:0.9 yoffset:0.8 zoffset:0.0 extra:0.0 data:115:41:130"

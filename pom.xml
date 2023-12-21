@@ -7,7 +7,7 @@
     <groupId>dev.geco.gemote</groupId>
     <artifactId>GEmote</artifactId>
     <name>GEmote</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>Show your favorite emotions to your friends!</description>
     <url>https://www.spigotmc.org/resources/114073</url>
     <inceptionYear>2023</inceptionYear>
