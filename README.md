@@ -4,7 +4,7 @@
 
 This repository contains the GEmote project from the GPlugins series!
 
-- Website: [GEmote - Spigot](https://www.spigotmc.org/resources/GEmote.000000/)
+- Website: [GEmote - Spigot](https://www.spigotmc.org/resources/GEmote.114073/)
 - GitHub: [GEmote - GitHub](https://github.com/Gecolay/GEmote)
 - Discord: [GPlugins - Discord](https://discord.gg/Cy2P4AU)
 

@@ -63,7 +63,7 @@ public class GEmoteMain extends JavaPlugin {
 
     public final String NAME = "GEmote";
 
-    public final String RESOURCE = "000000";
+    public final String RESOURCE = "114073";
 
     private static GEmoteMain GPM;
 
